@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(171, 171, 172);
+    min-width: 300px;
+    max-width: 2560px;
+}
+
+h1 {
+    color: rgb(91, 91, 155);
+    background-color: aliceblue;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+table {
+    margin: auto;
+    padding: 20px;
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    border-style: groove;
+}
+
+th {
+    background-color: beige;
+}
+
+th:hover {
+    background-color: rgb(179, 137, 180);
+}
+
+td:hover {
+    background-color: rgb(120, 104, 134);
+    color: rgb(212, 212, 87);
+}
