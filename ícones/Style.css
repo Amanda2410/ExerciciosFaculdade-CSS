@@ -10,54 +10,42 @@ h1 {
    font-family: "Times New Roman", Times, serif;
    padding: 20px;
 }
-
 ul {
     text-align: left;
     font-size: 30px;
     font-family:"Times New Roman", Times, serif;
     padding: 50px;
 }
-
 .Atualizar {
     list-style-image: url("https://img.icons8.com/fluency-systems-regular/20/upgrade.png");
 }
-
 .Senha {
     list-style-image: url("https://img.icons8.com/ios-glyphs/20/password--v1.png");
 }
-
 .Firewall-icone {
     list-style-image: url("https://img.icons8.com/ios-filled/20/firewall.png");
 }
-
 .FA {
     list-style-image: url("https://img.icons8.com/external-outline-lafs/20/external-ic_2fa_unlock-crypto-security-outline-lafs.png");
 }
-
 .Backup {
     list-style-image: url("https://img.icons8.com/ios-filled/20/data-backup.png");
 }
-
 .Antivirus {
     list-style-image: url("https://img.icons8.com/ios/20/virus-free.png");
 }
-
 .Ferramenta {
     list-style-image: url("https://img.icons8.com/ios-filled/20/wrench.png");
 }
-
 .Avaliacao {
     list-style-image: url("https://img.icons8.com/ios-filled/20/search--v1.png");
 }
-
 .Controle {
     list-style-image: url("https://img.icons8.com/material-sharp/20/employee-card.png");
 }
-
 .CE {
     list-style-image: url("https://img.icons8.com/ios-filled/20/phishing.png");
 }
-
 .Cripto {
     list-style-image: url("https://img.icons8.com/ios-filled/20/data-encryption.png");
 }

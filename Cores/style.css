@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: black;
+}
+.atençao {
+    color: yellow;
+}
+.perigo {
+    color: red;
+}
+.info {
+    color: blue;
+}

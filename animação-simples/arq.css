@@ -3,7 +3,6 @@ body {
     text-align: center;
     padding: 50px;
 }
-
 .anima {
     max-height: 0;
     overflow: hidden;
@@ -16,12 +15,10 @@ body {
     animation: anima 1.5s linear infinite;
     border-radius: 25px;
 }
-
 @keyframes anima {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -45,7 +42,6 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(12, 184, 236);
 }
-
 #animac:checked + label + .anima {
    max-height: 1000px; 
    display: block;

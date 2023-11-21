@@ -30,7 +30,6 @@ img {
     box-shadow: 3px 3px 15px white;
     overflow: hidden;
 }
-
 #text {
     display: none;
 }
@@ -52,7 +51,6 @@ img {
 #textIIIIIII {
     display: none;
 }
-
 .descricao {
     max-height: 0;
     overflow: hidden;
@@ -65,7 +63,6 @@ img {
     display: inline-block;
 }
 @keyframes pulse {
-
   0% {
       transform: scale(1);
  }
@@ -89,7 +86,6 @@ li:hover {
     border-radius: 10px;
     text-align: center;
 }
-
 #text:checked + label + .descricao {
     max-height: 1000px; 
 }

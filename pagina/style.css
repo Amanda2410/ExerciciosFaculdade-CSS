@@ -1,0 +1,22 @@
+body {
+    background-color: black; 
+    min-width: 300px;
+    max-width: 2560px;
+}
+h1 {
+    color: rgb(196, 181, 115);
+    background-color: rgb(121, 37, 37);
+    border-radius: 10px ;
+    text-align:center;
+    margin: auto;
+    font-size: 40px;
+    padding:20px;
+}
+.box {
+    color: rgb(196, 181, 115);
+    background-color: rgb(121, 37, 37);
+    font-size: 30px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+}
